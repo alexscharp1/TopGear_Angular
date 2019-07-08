@@ -1,2 +1,6 @@
 # TopGear_Angular
-This repository contains implementations of the TopGear Angular assignment. The two projects are intended to look like angular.io and mywipro.wipro.com/home.
+This repository contains implementations of the TopGear Angular assignment.
+
+App 1: Angular.io. This project is in branch angulario.
+
+App 2: MyWipro homepage. This project is in the branch mywipro.
